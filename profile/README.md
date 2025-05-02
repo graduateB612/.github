@@ -90,8 +90,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 </div>
 
-
-<br/><br/><hr/><br/><br/>
+<br/><hr/><br/>
 
 > *"모든 어른들은 처음엔 어린이였지만, 그걸 기억하는 어른은 거의 없어."* <br/>
 > *"어른들은 스스로는 아무것도 이해하지 못해. 아이들은 늘 설명에 지쳐 버리지."* <br/>
