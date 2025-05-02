@@ -1,4 +1,4 @@
-# Project: B612
+# Project: B612 - 해결단, 장미
 <img src="../images/image.png" alt="장미로고" width="200" height="200">
 
 > *진짜로 중요한 것은 눈에 보이지 않아. 마음으로 봐야만 진정으로 볼 수 있지.*
