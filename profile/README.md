@@ -66,17 +66,18 @@
 ## 🛠️장미의 구성 요소
 해결단 *장미*는 아래와 같은 요소로 구성되어있어요.
 
-### 🖥️FE : [최승혁](https://github.com/qwerasdfxzdcv)
+### 🖥️외형 - FE : [최승혁](https://github.com/qwerasdfxzdcv)
 <div>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
 </div>
 <br/>
-보다 자세히 알고싶으신 분은, [여기](https://github.com/graduateB612/B612_Front.git)를 통하시면 돼요.
+
+해결단 장미의 **외형**에 대해 보다 자세히 알고싶으신 분은, [여기](https://github.com/graduateB612/B612_Front.git)를 통하시면 돼요.
 <br/>
 
-### 📟BE : [이현숙](https://github.com/platinum57)
+### 📟내면 - BE : [이현숙](https://github.com/platinum57)
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -84,7 +85,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </div>
 <br/>
-보다 자세히 알고싶으신 분은, [여기](https://github.com/graduateB612/B612_Back.git)를 통하시면 돼요.
+
+해결단 장미의 **내면**에 대해 보다 자세히 알고싶으신 분은, [여기](https://github.com/graduateB612/B612_Back.git)를 통하시면 돼요.
 <br/>
 
 ### 🪄Tools & DevOps
