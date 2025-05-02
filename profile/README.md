@@ -73,6 +73,8 @@
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white"/>
 </div>
 <br/>
+보다 자세히 알고싶으신 분은, [여기](https://github.com/graduateB612/B612_Front.git)를 통하시면 돼요.
+<br/>
 
 ### 📟BE : [이현숙](https://github.com/platinum57)
 <div>
@@ -81,6 +83,9 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 </div>
+<br/>
+보다 자세히 알고싶으신 분은, [여기](https://github.com/graduateB612/B612_Back.git)를 통하시면 돼요.
+<br/>
 
 ### 🪄Tools & DevOps
 <div>
